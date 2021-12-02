@@ -1,0 +1,14 @@
+{
+  "users": {
+    "heading": "Recent Updates",
+    "image1": {
+      "image": "./img/footer-01.png",
+      "text": "A galley of type and scrambled it to make a type.<br /> <strong>28 Oct</strong> 2017"
+    },
+    "image2": {
+      "image": "./img/footer-02.png",
+      "text": "A galley of type and scrambled it to make a type.<br /><strong>28 Oct</strong> 2017"
+    }
+  }
+  
+}
